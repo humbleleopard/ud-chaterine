@@ -1,5 +1,7 @@
 # UD CHATERINE — Aplikasi Kasir Toko Pertanian
 
+**Buka aplikasi:** https://humbleleopard.github.io/ud-chaterine/
+
 Aplikasi kasir web untuk toko obat tanaman, pupuk, benih, dan alat pertanian.
 
 Cara kerjanya: barang di-scan (barcode kemasan atau label QR), harga langsung masuk ke keranjang, lalu pembeli membayar dengan tunai, QRIS, transfer, atau **kasbon** (bayar setelah panen). Stok berkurang otomatis.
