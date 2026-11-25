@@ -1,0 +1,10 @@
+# Berkas sistem yang tidak perlu ikut diunggah
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+node_modules/
+.claude/
+# Backup data toko (berisi data penjualan & pelanggan) jangan diunggah
+backup-kasirqr-*.json
+*.csv

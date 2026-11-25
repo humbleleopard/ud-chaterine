@@ -1,0 +1,51 @@
+{
+  "name": "UD CHATERINE — Kasir Toko Pertanian",
+  "short_name": "UD CHATERINE",
+  "description": "Kasir toko pertanian: scan barcode/QR, bayar tunai, QRIS, atau kasbon; stok pestisida, pupuk, benih, dan alat.",
+  "lang": "id",
+  "start_url": "./#/kasir",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f3ec",
+  "theme_color": "#1f6b3a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kasir",
+      "url": "./#/kasir"
+    },
+    {
+      "name": "Cek Harga",
+      "url": "./#/cek-harga"
+    },
+    {
+      "name": "Kasbon",
+      "url": "./#/pelanggan"
+    }
+  ]
+}
